@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mechatour
-- 👀 I’m interested in Java, C Sharp, C++, IoT, Arduino & ESP32
+- 👀 I’m interested in Rust, C++, IoT, Arduino & ESP32, Java, & C Sharp
 - 🌱 I’m currently learning how to survive
 - 💞️ I’m looking to collaborate on whatever is fun
 - 📫 How to reach me:
